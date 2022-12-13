@@ -144,4 +144,3 @@ Este guia foi feito para funcionar no Windows 10 e não foi testado em mais nenh
 [forks-url]: https://github.com/0DarkMode0/README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/0DarkMode0/README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/0DarkMode0/README-Template/stargazers
-[product-screenshot]: imagens/projeto.png
